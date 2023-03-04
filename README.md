@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trokopops
 - 👀 I’m interested in ... Discord Bots, Minecraft, Cybersecurity
-- 🌱 I’m currently learning ... Python, C# and C++
+- 🌱 I’m currently learning ... Python and C#
 
 
 <!---
